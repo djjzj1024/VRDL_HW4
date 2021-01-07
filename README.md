@@ -17,10 +17,10 @@ The following specs were used to create the original solution.
 
 ## Requirements
 
-- torch>1.5.1
-- torchvision>0.6.1
-- scikit-image>0.17.2
-- numpy>1.19.0
+- torch>=1.5.1
+- torchvision>=0.6.1
+- scikit-image>=0.17.2
+- numpy>=1.19.0
 
 ## Train/Test
 
